@@ -10,3 +10,4 @@ C:\Users\dev\Desktop\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEqual
 C:\Users\dev\Desktop\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\Overload_operators(Fraction)\obj\Debug\netcoreapp3.1\Overload_operators(Fraction).dll
 C:\Users\dev\Desktop\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\Overload_operators(Fraction)\obj\Debug\netcoreapp3.1\Overload_operators(Fraction).pdb
 C:\Users\dev\Desktop\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\Overload_operators(Fraction)\obj\Debug\netcoreapp3.1\Overload_operators(Fraction).genruntimeconfig.cache
+C:\Users\dev\Desktop\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\Overload_operators(Fraction)\obj\Debug\netcoreapp3.1\Overload_operators(Fraction).csprojAssemblyReference.cache

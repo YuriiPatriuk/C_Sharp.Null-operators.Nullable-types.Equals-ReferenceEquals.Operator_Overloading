@@ -50,6 +50,10 @@ namespace Overload_operators_Fraction_
         {
             return !(one == two);
         }
+        public static Fraction operator ++(Fraction one)
+        {
+            return new Fraction(one.num + one.denom, one.denom);
+        }
 
         public override string ToString()
         {

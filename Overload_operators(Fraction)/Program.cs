@@ -18,6 +18,7 @@ namespace Overload_operators_Fraction_
 
             Console.WriteLine(fr + fr2);
             Console.WriteLine(fr == fr2);
+            Console.WriteLine(++fr);
         }
     }
 }
