@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Desktop\\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\\Equals_vs_Reference\\Equals_vs_Reference.csproj": {}
+    "C:\\Users\\dev\\Desktop\\C_Sharp.Null-operators.Nullable-types.Equals-ReferenceEquals.Operator_Overloading\\Equals_vs_Reference\\Equals_vs_Reference.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Desktop\\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\\Equals_vs_Reference\\Equals_vs_Reference.csproj": {
+    "C:\\Users\\dev\\Desktop\\C_Sharp.Null-operators.Nullable-types.Equals-ReferenceEquals.Operator_Overloading\\Equals_vs_Reference\\Equals_vs_Reference.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Desktop\\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\\Equals_vs_Reference\\Equals_vs_Reference.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\C_Sharp.Null-operators.Nullable-types.Equals-ReferenceEquals.Operator_Overloading\\Equals_vs_Reference\\Equals_vs_Reference.csproj",
         "projectName": "Equals_vs_Reference",
-        "projectPath": "C:\\Users\\dev\\Desktop\\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\\Equals_vs_Reference\\Equals_vs_Reference.csproj",
+        "projectPath": "C:\\Users\\dev\\Desktop\\C_Sharp.Null-operators.Nullable-types.Equals-ReferenceEquals.Operator_Overloading\\Equals_vs_Reference\\Equals_vs_Reference.csproj",
         "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Desktop\\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\\Equals_vs_Reference\\obj\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\C_Sharp.Null-operators.Nullable-types.Equals-ReferenceEquals.Operator_Overloading\\Equals_vs_Reference\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dev\\Desktop\\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\\NeedToChange\\Null_Operation.csproj",
+      "projectUniqueName": "C:\\Users\\dev\\Desktop\\C_Sharp.Null-operators.Nullable-types.Equals-ReferenceEquals.Operator_Overloading\\NeedToChange\\Null_Operation.csproj",
       "projectName": "Null_Operation",
-      "projectPath": "C:\\Users\\dev\\Desktop\\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\\NeedToChange\\Null_Operation.csproj",
+      "projectPath": "C:\\Users\\dev\\Desktop\\C_Sharp.Null-operators.Nullable-types.Equals-ReferenceEquals.Operator_Overloading\\NeedToChange\\Null_Operation.csproj",
       "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dev\\Desktop\\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\\NeedToChange\\obj\\",
+      "outputPath": "C:\\Users\\dev\\Desktop\\C_Sharp.Null-operators.Nullable-types.Equals-ReferenceEquals.Operator_Overloading\\NeedToChange\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

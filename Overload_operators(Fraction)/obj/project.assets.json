@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dev\\Desktop\\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\\Overload_operators(Fraction)\\Overload_operators(Fraction).csproj",
+      "projectUniqueName": "C:\\Users\\dev\\Desktop\\C_Sharp.Null-operators.Nullable-types.Equals-ReferenceEquals.Operator_Overloading\\Overload_operators(Fraction)\\Overload_operators(Fraction).csproj",
       "projectName": "Overload_operators(Fraction)",
-      "projectPath": "C:\\Users\\dev\\Desktop\\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\\Overload_operators(Fraction)\\Overload_operators(Fraction).csproj",
+      "projectPath": "C:\\Users\\dev\\Desktop\\C_Sharp.Null-operators.Nullable-types.Equals-ReferenceEquals.Operator_Overloading\\Overload_operators(Fraction)\\Overload_operators(Fraction).csproj",
       "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dev\\Desktop\\C_Sharp_Null-operators.Nullable types.Equals,ReferenceEquals.Operator_Overloading\\Overload_operators(Fraction)\\obj\\",
+      "outputPath": "C:\\Users\\dev\\Desktop\\C_Sharp.Null-operators.Nullable-types.Equals-ReferenceEquals.Operator_Overloading\\Overload_operators(Fraction)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
